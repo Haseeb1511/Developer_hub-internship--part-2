@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+keras
+openpyxl         # for opening excel file 
+yfinance
