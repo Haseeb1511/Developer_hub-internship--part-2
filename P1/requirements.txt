@@ -1,7 +1,6 @@
 pandas
-seaborn
 matplotlib
 scikit-learn
-tensorflow
-keras
 openpyxl         # for opening excel file 
+tensorflow
+ta
