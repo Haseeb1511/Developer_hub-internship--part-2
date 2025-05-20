@@ -2,3 +2,5 @@ scikit-learn
 seaborn
 matplotlib
 pandas
+imblearn
+xgboost
